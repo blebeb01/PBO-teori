@@ -1,5 +1,5 @@
 # PBO-teori
 
-Nama  : Muhammad Naufal Muthahhari\n
-NIM   : 1217050099\n
-Kelas : Prak. PBO B
+Nama  : Muhammad Naufal Muthahhari<br>
+NIM   : 1217050099<br>
+Kelas : Prak. PBO B<br>
